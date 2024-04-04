@@ -1,3 +1,7 @@
 its 5th file
 its modified file
+<<<<<<< HEAD
 second branch
+=======
+2nd modification....
+>>>>>>> first

@@ -1,3 +1,7 @@
 its 3rd file
 its modified 
+<<<<<<< HEAD
 second branch
+=======
+2nd modification....
+>>>>>>> first
