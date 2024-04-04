@@ -1,3 +1,11 @@
 its 4th file
 its modified file
+<<<<<<< HEAD
 master modifications
+=======
+<<<<<<< HEAD
+second branch
+=======
+2nd modification....
+>>>>>>> first
+>>>>>>> second
